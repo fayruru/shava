@@ -148,7 +148,18 @@ html, body {
  background-repeat: no-repeat;
  background-position: top center;
 }
-
+.hh {
+	color: black;
+	font-family: "Arial", sans-serif;
+}
+.cc {
+    color: black;
+	font-family: "Arial", sans-serif;
+}
+.gg {
+	color: black;
+	font-family: "Arial", sans-serif;
+}
 #flat .line-break {
  background: linear-gradient(60deg, #008000, #ffd700, #dc143c);
  width: 100%;
