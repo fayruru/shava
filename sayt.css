@@ -74,6 +74,18 @@ html, body {
  padding-left: 3px;
  font-family: 'Source Sans Pro', sans-serif;
 }
+.hh {
+	color: black;
+	font-family: "Arial", sans-serif;
+}
+.cc {
+    color: red;
+	font-family: "Arial", sans-serif;
+}
+.gg {
+	color: purple;
+	font-family: "Arial", sans-serif;
+}
 #flat .title {
  background: white;
  padding: 60px;
@@ -148,17 +160,7 @@ html, body {
  background-repeat: no-repeat;
  background-position: top center;
 }
-.hh {
-	color: black;
-	font-family: "Arial", sans-serif;
-}
-.cc {
-    color: red;
-	font-family: "Arial", sans-serif;
-}
-.gg {
-	color: purple;
-	font-family: "Arial", sans-serif;
+
 }
 #flat .line-break {
  background: linear-gradient(60deg, #008000, #ffd700, #dc143c);
