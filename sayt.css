@@ -165,12 +165,12 @@ html, body {
  width: 100%;
  margin: 0 auto;
 }
-#flat .line-abc {
+#flat .line-break {
  background: linear-gradient(60deg, #008000, #ffd700, #dc143c);
  width: 100%;
  margin: 0 auto;
 }
-#flat .line-bca {
+#flat .line-break {
  background: linear-gradient(60deg, #008000, #ffd700, #dc143c);
  width: 100%;
  margin: 0 auto;
@@ -180,7 +180,6 @@ html, body {
   padding: 40px;
   width: 620px;
  }
-}
 @media screen and (max-width: 767px) {
  #flat .block {
   padding: 30px;
