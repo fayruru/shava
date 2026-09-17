@@ -160,7 +160,15 @@ html, body {
  background-repeat: no-repeat;
  background-position: top center;
 }
-
+#flat .line-break {
+ background: linear-gradient(60deg, #008000, #ffd700, #dc143c);
+ width: 100%;
+ margin: 0 auto;
+}
+#flat .line-break {
+ background: linear-gradient(60deg, #008000, #ffd700, #dc143c);
+ width: 100%;
+ margin: 0 auto;
 }
 #flat .line-break {
  background: linear-gradient(60deg, #008000, #ffd700, #dc143c);
